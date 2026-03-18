@@ -8,7 +8,7 @@ public class Account
 	private double balance;
 	private Customer cust;
 	private String acctID;
-		
+		 
 	
 	/**
 	 * constructor

@@ -6,7 +6,7 @@ public class Bank
 {
 	private ArrayList accounts;
 		
-	
+	 
 	
 	public Bank() //Constructor Method
 	{

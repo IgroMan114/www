@@ -4,7 +4,7 @@ public class Customer
 {
 private String firstName, lastName;
 		
-	
+	 
 	/**
 	 * constructor
 	 * pre: none

@@ -10,7 +10,7 @@ When a transaction is performed, updated account information should be displayed
 Author: Ihor Nedobor, 
 School: CHHS
 Course: Computer Programming 30
- 
+  
 
 */
 package chapter10;
