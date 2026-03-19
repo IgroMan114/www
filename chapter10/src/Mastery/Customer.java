@@ -1,4 +1,4 @@
-package chapter10;
+package Mastery;
 
 public class Customer 
 {

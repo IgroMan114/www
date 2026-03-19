@@ -14,7 +14,7 @@ Course: Computer Programming 30
  
 */
 
-package chapter10;
+package Mastery;
 
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;

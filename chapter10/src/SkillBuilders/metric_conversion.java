@@ -1,4 +1,4 @@
-package chapter10;
+package SkillBuilders;
 
 import java.awt.EventQueue;
 
