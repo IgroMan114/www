@@ -10,6 +10,7 @@ Course: Computer Programming 30
   
 
 */
+
 package mast;
 
 import java.util.Scanner;      // Used to get user input from keyboard
