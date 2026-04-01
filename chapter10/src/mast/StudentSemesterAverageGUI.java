@@ -9,7 +9,6 @@ Course: Computer Programming 30
   
 
 */
-
 package mast;
 
 import java.awt.EventQueue;
