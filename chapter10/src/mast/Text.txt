@@ -1,0 +1,11 @@
+The transistor was developed in Bell laboratories by a group of scientists which included: William Shockley,
+John Bardeen and Walter Brattain. A transistor is a semiconductor device with at least three terminals for a connection to an electric circuit.
+In the common case, the third terminal controls the flow  of current between the other two terminals.
+This can be used for amplification like in a radio receiver , or for rapid switching like in the case of digital circuits.
+Transistors replaced bulky and unreliable vacuum tubes, making computers smaller, more efficient and more powerful. 
+A microprocessor is a type of miniature electronic device that contains arithmetic, 
+logic and control circuitry necessary to perform the functions of a digital computer central processing unit. 
+In effect this kind of integrated circuit can interpret and execute the programme as well as handle arithmetic operations. 
+In the early 1970s the introduction of large-scale integration (LSI)—which made it possible to pack thousands of transistors, diodes, 
+and resistors onto a silicon chip less than 0.2 inch (5 mm) square—led to the development of the microprocessor. 
+The first microprocessor was the Intel 4004, which was introduced in 1971.
