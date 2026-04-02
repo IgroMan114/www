@@ -114,7 +114,7 @@ public class LocalBank {
     private void initialize() {
         // Create main frame
         frame = new JFrame();
-        frame.setBounds(100, 100, 630, 590);     // Set window size and position
+        frame.setBounds(100, 100, 631, 598);     // Set window size and position
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         // Main panel with background color and null layout (absolute positioning)
