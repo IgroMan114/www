@@ -178,6 +178,9 @@ public class StudentSemesterAverageGUI {
 		// -------- SAVE BUTTON --------
 		
 		JButton saveButton = new JButton("Save to File");
+		saveButton.setFont(new Font("SimSun", Font.PLAIN, 16));
+		saveButton.setBounds(124, 392, 147, 49);
+		frame.getContentPane().add(saveButton);
 		saveButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) 
 			{
@@ -257,12 +260,17 @@ public class StudentSemesterAverageGUI {
 				{
 					fileInfo.setText("IOException: " + e1.getMessage());
 				}
+			
 			}
+		
 		});
 		
 		// -------- VIEW FILE BUTTON --------
 		
 		JButton btnViewFileContents = new JButton("View File Contents");
+		btnViewFileContents.setFont(new Font("SimSun", Font.PLAIN, 16));
+		btnViewFileContents.setBounds(273, 393, 188, 49);
+		frame.getContentPane().add(btnViewFileContents);
 		btnViewFileContents.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) 
 			{
