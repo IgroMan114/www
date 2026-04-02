@@ -2,7 +2,8 @@
 
 Program: CountVowels.java          Last Date of this Revision: April 1, 2026
 
-Purpose: 
+Purpose: Create a CountVowels application that prompts the user for a file name. 
+After the file was entered program displays the number of vowels in the file.
 
 Author: Ihor Nedobor, 
 School: CHHS

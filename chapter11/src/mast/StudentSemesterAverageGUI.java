@@ -2,7 +2,8 @@
 
 Program: StudentSemesterAverageGUI.java           Last Date of this Revision: April 1, 2026
 
-Purpose: 
+Purpose: Create a GUI application that allows user to enter students data (name, grade level, semester, and grades) and then to save this data to a file.
+After the data was saved user can view the content of a file with students data.
 Author: Ihor Nedobor, 
 School: CHHS
 Course: Computer Programming 30

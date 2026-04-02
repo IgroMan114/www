@@ -2,7 +2,9 @@
 
 Program: WordGuess.java           Last Date of this Revision: April 1, 2026
 
-Purpose: 
+Purpose: Create a WordGuess application that allows user to play a game of guessing a word. 
+User has to enter a letter and if the letter is in the secret word it is displayed. 
+The secret word is taken from a file randomly in order to make the game more enjoying.
 
 Author: Ihor Nedobor, 
 School: CHHS
