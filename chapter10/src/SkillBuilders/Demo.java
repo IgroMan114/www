@@ -1,3 +1,4 @@
+
 package SkillBuilders;
 
 import java.awt.EventQueue;
@@ -28,9 +29,7 @@ public class Demo {
 	private JTextField lname;
 	private JComboBox schools;
 
-	/**
-	 * Launch the application.
-	 */
+
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -44,16 +43,12 @@ public class Demo {
 		});
 	}
 
-	/**
-	 * Create the application.
-	 */
+
 	public Demo() {
 		initialize();
 	}
 
-	/**
-	 * Initialize the contents of the frame.
-	 */
+
 	private void initialize() 
 	{
 		ImageIcon w = new ImageIcon("../chapter10/src/western.png");
@@ -181,3 +176,9 @@ public class Demo {
 		
 	}
 }
+
+
+
+
+
+
