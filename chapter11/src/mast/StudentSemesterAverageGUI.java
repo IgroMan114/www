@@ -45,7 +45,7 @@ public class StudentSemesterAverageGUI {
 	// -------- FILE HANDLING --------
 	
 	// File where student data is stored
-	File textFile = new File("C:\\Users\\1100107770\\git\\www\\chapter10\\src\\mast\\Students.txt");
+	File textFile = new File("C:\\Users\\1100107770\\git\\www\\chapter11\\src\\mast\\Students.txt");
 	
 	FileReader in;
 	BufferedReader readFile;
