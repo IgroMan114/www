@@ -106,7 +106,7 @@ public class CountVowels {
 /*
 
 Enter the path to a file(for example: C:\Users\User\Documents\Text.txt) : 
-C:\Users\1100107770\git\www\chapter10\src\mast\Text.txt
+C:\Users\1100107770\git\www\chapter11\src\mast\Text.txt
 The text in the file: 
 
 The transistor was developed in Bell laboratories by a group of scientists which included: William Shockley,

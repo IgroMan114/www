@@ -27,7 +27,7 @@ public class WordGuess {
 		String SECRET_WORD = ""; // Stores the randomly selected word
 		
 		// File containing list of words
-		File textFile = new File("C:\\Users\\1100107770\\git\\www\\chapter10\\src\\mast\\words.txt");
+		File textFile = new File("C:\\Users\\1100107770\\git\\www\\chapter11\\src\\mast\\words.txt");
 		
 		FileReader in;            // Reads characters from file
 		BufferedReader readFile;  // Reads file line-by-line
@@ -109,15 +109,19 @@ public class WordGuess {
 		// Show hidden word
 		System.out.println(wordSoFar + "\n");
 		
-		// ---------------- MAIN GAME LOOP ----------------
-		
+		// ---------------- MAIN GAME LOOP ----------------	
 		do {
 			// Ask player for input
 			System.out.println("Enter a letter (" + FLAG + " to guess entire word): ");
 			
 			// Convert input to uppercase
 			letterGuess = input.nextLine().toUpperCase();
-			
+
+			// Checks if input is letter, otherwise error message is displayed.
+			if (!letterGuess.matches("[a-zA-Z]+")) {
+			    System.out.println("Error: Only letters are allowed.");
+			    continue;
+			}
 			// Convert input into character array
 			wordLetters = letterGuess.toCharArray();
 
